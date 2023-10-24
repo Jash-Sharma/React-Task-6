@@ -1,0 +1,11 @@
+    .item{
+        color: white;
+        text-decoration: none;
+        font-family: 'Ubuntu', sans-serif;
+        font-size: x-large;
+        font-weight: 100;
+    }
+
+    .item:hover {
+    color: rgb(245, 125, 5) !important;
+}
